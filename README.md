@@ -22,7 +22,7 @@ This project implements an advanced AI-powered conversational agent with capabil
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/ai-powered-agent.git
-   cd ai-powered-agent
+   cd local-agent
    ```
 
 2. Create a virtual environment (optional but recommended):
